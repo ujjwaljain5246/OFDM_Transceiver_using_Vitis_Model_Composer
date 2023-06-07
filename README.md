@@ -1,5 +1,5 @@
 # OFDM_Transceiver_using_Vitis_Model_Composer
-This transceiver of OFDM system is implemented using the latest version of Vitis Model Composer and MATLAB version 2022a.
+This transceiver of OFDM system is implemented using the latest version of Vitis Model Composer 2022.2 and MATLAB version 2022a.
 
 First of all open the file named as Block-Diagram_of_OFDM.png. This will be the transceiver that I will implement.
 
